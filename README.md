@@ -6,6 +6,6 @@ Hello from SIUE
 
 Hello from CS SIUE
 
-```
+```ruby
 print(hello)
 ```
