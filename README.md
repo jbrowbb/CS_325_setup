@@ -5,3 +5,7 @@ Hello from SIUE
 ### Some more
 
 Hello from CS SIUE
+
+```
+print(hello)
+```
