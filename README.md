@@ -2,6 +2,6 @@
 
 Hello from SIUE
 
-### Some more information
+### Some more
 
 Hello from CS SIUE
